@@ -1,3 +1,4 @@
+<img width="auto" src="https://github.com/Otavio-Mendes/Otavio-Mendes/blob/master/banner.jpg">
 
 # Otávio D'Assunção Mendes
 
@@ -13,4 +14,3 @@ Quero me tornar um FullStack Developer :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-OtavioMendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otavio-dassuncao//)](https://www.linkedin.com/in/otavio-dassuncao/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-otavio.dassuncao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otavio.dassuncao@gmail.com)](mailto:otavio.dassuncao@gmail.com)
-
