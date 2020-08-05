@@ -7,7 +7,7 @@ Estou iniciando minha carreira como desenvolvedor!
 Quero me tornar um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou estudando para conseguir uma oportunidade de trabalho
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end HTML 5 E CSS3
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em HTML 5 E CSS3
  <br/> :blush: &nbsp; Posso te ajudar com HTML 5 E CSS3
  <br/> :computer: &nbsp; Minha stack: HTML 5 E CSS3 (por enquanto)
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e TFT
